@@ -1,7 +1,7 @@
 Keras Deep Learning Models on Colaboratory
 =========================================
 
-Deep learning models examples and tricks in jupyter notebook format.
+Deep learning model examples and tips in jupyter notebook format.
 It can be imported into Google Colaboratory or Jupyter lab to interract with.
 
 - Regression
