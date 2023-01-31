@@ -12,3 +12,4 @@ It can be imported into Google Colaboratory or Jupyter lab to interract with.
 - Overfitting solution
 - Data augmentation solution
 - K-Fold validation
+- Features extraction
