@@ -15,3 +15,4 @@ It can be imported into Google Colaboratory or Jupyter lab to interract with.
 - Features extraction
 - Pre-trained model customization
 - Visualizing convnets
+- K Nearest Neighbors
