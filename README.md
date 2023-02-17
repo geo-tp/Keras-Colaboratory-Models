@@ -16,3 +16,4 @@ It can be imported into Google Colaboratory or Jupyter lab to interract with.
 - Pre-trained model customization
 - Visualizing convnets
 - Embeddings
+- Recurent Neural Network
