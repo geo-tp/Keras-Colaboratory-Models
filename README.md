@@ -19,3 +19,4 @@ It can be imported into Google Colaboratory or Jupyter lab to interract with.
 - Recurent Neural Network
 - Auto Encoder
 - Composite Model
+- Optical Character Recognition
